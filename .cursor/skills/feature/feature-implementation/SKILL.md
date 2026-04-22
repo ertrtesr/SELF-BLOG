@@ -1,6 +1,6 @@
 ---
 name: "feature-implementation"
-description: "功能编码实现执行器（TDD 驱动）。读取任务规划，按 RED-GREEN-REFACTOR 循环执行开发任务。当用户说'完成XX功能的第N阶段'、'开始写代码'、'实现XX阶段'、'开发XX的数据层'等意图时触发。也支持增量变更任务，如'完成XX的变更任务 CR-XXX'。"
+description: "功能编码实现执行器（TDD 驱动）。读取任务规划，按 RED-GREEN-REFACTOR 循环执行开发任务。当用户说'完成XX功能的第N阶段'、'开始写代码'、'实现XX阶段'、'开发XX的数据层'、`/feature-implementation 完成XX功能的任务第N阶段`等意图时触发。也支持增量变更任务，如'完成XX的变更任务 CR-XXX'。"
 ---
 
 # 你是谁
