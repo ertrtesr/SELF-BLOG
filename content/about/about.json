@@ -1,0 +1,16 @@
+{
+  "name": "Your Name",
+  "tagline": "极简文字优先的个人站点作者",
+  "bio": [
+    "这是一段简短自我介绍。",
+    "你可以在这里写你正在做什么、关注什么方向。"
+  ],
+  "now": "最近在完善个人站点的 About / Blog 模块，并持续写作。",
+  "skills": ["TypeScript", "React", "Next.js", "Tailwind CSS"],
+  "contact": [
+    { "kind": "email", "value": "you@example.com", "label": "Email" },
+    { "kind": "github", "value": "https://github.com/yourname", "label": "GitHub" }
+  ],
+  "ctaBlog": { "label": "去博客看看", "href": "/blog" }
+}
+
